@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReviewProject</string>
+    <string name="StudentName">Student Name</string>
+    <string name="Studentpass">Student pass</string>
+    <string name="StudentNumber">Student Number</string>
+    <string name="new_student">New Student</string>
+
+</resources>
